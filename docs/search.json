@@ -76,28 +76,28 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "Education",
-    "text": "Education\n\n[Your Degree] - [University Name], [Year]\nRelevant Coursework: Statistics, Data Analysis, Programming, etc."
+    "text": "Education\n\nApplied Statistics and Data Analytics - Brigham Young University, (Graduating April 2026)\nRelevant Coursework: Statistics, Data Analysis, Programming, Bayesian Theory, Sports Analytics, etc."
   },
   {
     "objectID": "about.html#skills-interests",
     "href": "about.html#skills-interests",
     "title": "About Me",
     "section": "Skills & Interests",
-    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub\n\n\n\nAreas of Interest\n\n[Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]\n[Other areas you’re curious about]"
+    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: R, Python\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Tableau\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub\n\n\n\nAreas of Interest\n\n[I am very interested in Sports Analytics, as well as general industry applications of data analysis.]\n[I would love to get more experience in business analytics, statistical research, and even teaching statistics.]"
   },
   {
     "objectID": "about.html#goals",
     "href": "about.html#goals",
     "title": "About Me",
     "section": "Goals",
-    "text": "Goals\nDescribe what you hope to achieve through your data science journey:\n\nShort-term learning objectives\nLong-term career aspirations\nTypes of problems you want to solve"
+    "text": "Goals\nDescribe what you hope to achieve through your data science journey:\n\nHoping to obtain a Masters of Statistics, followed by industry work\nGoal of linking my passion for sports with analytics.\nTypes of problems you want to solve"
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
     "title": "About Me",
     "section": "Contact",
-    "text": "Contact\n\nEmail: your.email@example.com\nGitHub: github.com/your-username\nLinkedIn: linkedin.com/in/your-profile\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
+    "text": "Contact\n\nEmail: walterjvogelmann@gmail.com\nGitHub: https://github.com/waltervogelmann\nLinkedIn: www.linkedin.com/in/wvogelmann\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
   },
   {
     "objectID": "projects/data-acquisition.html",

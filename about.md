@@ -4,8 +4,6 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
-
 - I'm a highly motivated and versatile statistics student at Brigham Young University, where I am pursuing a Bachelor's degree in Statistics and Data Analytics with Minors in Mathematics and French.
 - I have built a strong academic foundation, with coursework in Bayesian Statistics, Tableau, SQL, Linux, and AWS.
 - Gaining hands-on experience through my role in the BYU Men's Basketball Internship, where I work on statistical projects analyzing player performance and scouting.

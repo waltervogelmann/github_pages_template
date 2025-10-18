@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - src/projects/*
+    - index.md
+    - about.md
 
 website:
   title: "Walter Vogelmann - Data Science Portfolio"

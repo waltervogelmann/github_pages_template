@@ -28,15 +28,15 @@ Write a brief introduction about yourself here. Include:
 - **Tools**: Jupyter Notebooks, Git/GitHub
 
 ### Areas of Interest
-- [I am very interested in Sports Analytics, as well as general industry applications of data analysis.]
-- [I would love to get more experience in business analytics, statistical research, and even the teaching of statistics.]
+- I am very interested in Sports Analytics, as well as general industry applications of data analysis.
+- I would love to get more experience in business analytics, statistical research, and even the teaching of statistics.
 
 ## Goals
 
-Describe what you hope to achieve through your data science journey:
+What I hope to achieve through my data science journey:
 
 - Hoping to obtain a Masters of Statistics, followed by industry work
-- Goal of eventually linking my passion for sports with data analysis
+- I want to eventually link my passion for sports with data analysis in a professional setting
 
 ## Contact
 

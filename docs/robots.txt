@@ -1,0 +1,1 @@
+Sitemap: https://waltervogelmann.github.io/github_pages_template/sitemap.xml
